@@ -1,0 +1,7 @@
+/* CREATE DATABASE */
+CREATE DATABASE Pokedex;
+GO
+
+/* CHANGE TO THE Pokedex DATABASE */
+USE Pokedex;
+GO
